@@ -17,6 +17,7 @@ document.getElementById('upload-button').addEventListener('click', function() {
     const file = fileInput.files[0];
     if (file) {
         console.log('File selected:', file.name);
+        
     } else {
         console.log('No file selected');
     }
