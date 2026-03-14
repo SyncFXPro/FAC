@@ -287,7 +287,7 @@ An **honest, AI-assisted research project** that:
 - ✅ Provides comprehensive analysis and visualizations
 - ✅ Includes honest assessment of limitations
 
-**"I did what I could. This is an AI-assisted project, but it's an honest one because I did the work of learning, structuring, and lecturing myself on its logic afterward."**
+**"I did what I could. This is an AI-assisted project, but it's an honest one because I did the work of learning, structuring, and lecturing myself on its logic"**
 
 ---
 
